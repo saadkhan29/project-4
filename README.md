@@ -62,8 +62,8 @@ By the time you submit this project, you will have covered new ground in, and re
     - DRY (Don't Repeat Yourself) code
 - **Use technology stack templates**.  You may choose which tech stack.
   - [Rails Template](https://github.com/wdi-red-coral/rails-template)
-  - [Rails API Template](https://github.com/wdi-red-coral/rails-api-template) with [React Template](https://github.com/wdi-red-coral/react-template)
-  - [Express API Template](https://github.com/wdi-red-coral/express-api-template) with [React Template](https://github.com/wdi-red-coral/react-template)
+  - [Rails API Template](https://github.com/sei-eternity/rails-api-template) with [React Template](https://github.com/sei-eternity/react-template)
+  - [Express API Template](https://github.com/sei-eternity/express-api-template) with [React Template](https://github.com/sei-eternity/react-template)
 - Be deployed on Heroku
 - **Craft a `README.md` file that explains your app**.
 
