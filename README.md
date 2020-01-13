@@ -4,7 +4,7 @@
 
 ## Overview:
 
-For your 4th project, you'll have the choice of building a **MERN** stack app or a **Rails + React** app. Use your imagination! You get to create whatever you want for this app. You can even use **React Native** for your project.
+For your 4th project, you'll have the choice of building a **MERN** stack app or a **Rails + React** app. Use your imagination! You get to create whatever you want for this app.
 
 Though, you'll need to run your user stories, wireframes, and database design by your
 instructors to get their feedback and approval before you begin coding! Remember
