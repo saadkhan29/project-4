@@ -16,7 +16,7 @@ identify everything else as stretch goals. If you meet your MVP (Minimum Viable
 Product) ahead of schedule, you can decide which reach goals to focus on for the
 remainder of your time.
 
-**You will be working as a team or individual for this project**, everyone must contribute if on a team. If 1 person does not contribute or 1 person does all the work then the entire team will fail the project requirements. If you pair program then please include the other persons github name in the commit.
+**You will be working as a team for this project**, everyone must contribute. If 1 person does not contribute or 1 person does all the work then the entire team will fail the project requirements. If you pair program then please include the other persons github name in the commit.
 
 ## What You've Learned
 
