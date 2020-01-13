@@ -65,17 +65,17 @@ By the time you submit this project, you will have covered new ground in, and re
   - [Rails API Template](https://github.com/sei-eternity/rails-api-template) with [React Template](https://github.com/sei-eternity/react-template)
   - [Express API Template](https://github.com/sei-eternity/express-api-template) with [React Template](https://github.com/sei-eternity/react-template)
 - Be deployed on Heroku or anyother hosting service provider (if you want to).
-- **Create a `README.md` file that explains your app**.
+- **Create a `README.md` file that explains your app** (Dont forget to include project wireframes and user stories in readme file).
 
 ### Necessary Deliverables
 
-Projects are due **Thursday, 12/09 at 10am**!  
+Projects are due **Thursday, 06th Feb, 2020 at 10am**!  
 
-Submissions will be submitted by posting into slack
+Projects will be submitted by Google Sheet
 - a link to your deployed application 
 - a link to your github repository
 
-The presentation must be a **5-10 minute presentation** in which you answer the following questions:
+The presentation must be a **10 minute presentation** in which you answer the following questions:
   - What is the application about?
   - What are the user stories for your application?
   - What API did you choose to use?
@@ -105,6 +105,6 @@ The presentation must be a **5-10 minute presentation** in which you answer the 
 ## Useful Resources
 
 - **[Rails JSON API Docs](https://guides.rubyonrails.org/api_app.html)**
-- **[Heroku Deployment Rails](https://devcenter.heroku.com/articles/getting-started-with-rails5)**
+- **[Heroku Deployment Rails](https://devcenter.heroku.com/articles/getting-started-with-rails6)**
 - **[React.js](https://reactjs.org/)**
 - **[React Deployment Guide](https://github.com/gitname/react-gh-pages)**
