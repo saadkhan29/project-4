@@ -64,8 +64,8 @@ By the time you submit this project, you will have covered new ground in, and re
   - [Rails Template](https://github.com/wdi-red-coral/rails-template)
   - [Rails API Template](https://github.com/sei-eternity/rails-api-template) with [React Template](https://github.com/sei-eternity/react-template)
   - [Express API Template](https://github.com/sei-eternity/express-api-template) with [React Template](https://github.com/sei-eternity/react-template)
-- Be deployed on Heroku
-- **Craft a `README.md` file that explains your app**.
+- Be deployed on Heroku or anyother hosting service provider (if you want to).
+- **Create a `README.md` file that explains your app**.
 
 ### Necessary Deliverables
 
