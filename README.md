@@ -102,6 +102,6 @@ The presentation must be a **10 minute presentation** in which you answer the fo
 
 - **[Rails JSON API Docs](https://guides.rubyonrails.org/api_app.html)**
 - **[Heroku Deployment Rails](https://devcenter.heroku.com/articles/getting-started-with-rails6)**
-- **[Heroku Deployment Express](https://github.com/saadkhan29/Express-Deployment-with-Heroku)
+- **[Heroku Deployment Express](https://github.com/saadkhan29/Express-Deployment-with-Heroku)**
 - **[React.js](https://reactjs.org/)**
 - **[React Deployment Guide](https://github.com/gitname/react-gh-pages)**
