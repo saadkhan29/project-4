@@ -66,9 +66,9 @@ By the time you submit this project, you will have covered new ground in, and re
 
 ### Necessary Deliverables
 
-Projects are due **Thursday, 06th Feb, 2020 at 9am**!  
+Projects are due on **Thursday, 06th Feb, 2020 at 9am**!  
 
-Projects will be submitted by Google Sheet
+Projects will be submitted by [Google Sheet](https://docs.google.com/spreadsheets/d/12EZArlpebL0RunXoHibb1jruWvtWFLldOxFSR3hCkNE/edit#gid=602793254)
 - a link to your deployed application 
 - a link to your github repository
 
